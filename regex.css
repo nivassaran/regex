@@ -1,0 +1,33 @@
+body{
+    background-color: #93d1be;
+}
+
+.highlight{
+    background-color: #fae97f;
+}
+
+input[type=text] {
+    width: 30%;
+    position: relative;
+    left: 31%;
+    top: 40px;
+    height: 30px;
+    border-radius: 0.5px;
+}
+
+.main{
+    height: 440px;
+    width: 530px;
+    padding: 30px;
+    border: 1px solid white;
+    border-radius: 10px;
+    word-spacing: 15px;
+    margin-left: 23%;
+    margin-top: 70px;
+    outline : none;
+    font-family: serif;
+    font-size: 15px;
+    overflow: auto;
+    background-color: #f0f7f5;
+}
+  
